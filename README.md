@@ -9,7 +9,7 @@ Delete multiple namespaces stucked as **Terminating**
 ## How to use
 
 ```bash
-wget https://raw.githubusercontent.com/ugurserhattoy/kubernetes/main/delete_multiple_terminated/delete_terminating_namespaces.sh
+wget https://raw.githubusercontent.com/ugurserhattoy/DTN/main/delete_terminating_namespaces.sh
 chmod +x delete_terminating_namespaces.sh
 ./delete_terminating_namespaces.sh
 ```
